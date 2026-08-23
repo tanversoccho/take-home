@@ -1,0 +1,205 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+venv.bak/
+env.bak/
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+test-reports/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+doc/_build/
+
+# PyBuilder
+target/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+
+# pipenv
+Pipfile.lock
+
+# celery beat schedule file
+celerybeat-schedule
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.env
+.env.local
+.env.*.local
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-workspace
+*.sublime-project
+
+# Project-specific ignores
+# Logs
+logs/
+*.log
+
+# Output directories
+output/
+results/
+data/
+temp/
+
+# API keys and secrets
+*.key
+*.pem
+*.crt
+*.cert
+*.p12
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Backup files
+*.bak
+*.backup
+*.old
+*.orig
+
+# Configuration files with sensitive data
+config_local.py
+secrets.py
+settings_local.py
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Archive files
+*.zip
+*.tar.gz
+*.tgz
+*.rar
+*.7z
+
+# PDF cache files
+*.pdf.cache
+
+# Processed invoices cache
+invoice_cache/
+processed/
+failed/
+
+# Report files
+report.html
+coverage.html
+
+# Docker files
+.dockerignore
+docker-compose.override.yml
+
+# Node modules (if using any)
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Test files that are generated
+test_output/
+test_results/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Large data files
+*.pkl
+*.pickle
+*.h5
+*.hdf5
+*.npy
+*.npz
+
+# JWT and token files
+*.token
+*.jwt
+
+# SSL certificates
+*.crt
+*.key
+*.pem

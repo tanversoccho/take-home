@@ -1,0 +1,374 @@
+[
+  {
+    "file": "invoice_09.pdf",
+    "status": "success",
+    "mock_data": {
+      "invoice_number": "INV-202608-invoice_",
+      "supplier_name": "株式会社サンプル商事",
+      "issue_date": "2026-01-15",
+      "due_date": "2026-02-15",
+      "subtotal": 150000,
+      "tax_amount": 15000,
+      "total_amount": 165000,
+      "lines": [
+        {
+          "description": "製品A-100",
+          "quantity": 100,
+          "unit": "pcs",
+          "unit_price": 1000,
+          "amount": 100000,
+          "tax_code": "T10"
+        },
+        {
+          "description": "製品B-200",
+          "quantity": 50,
+          "unit": "pcs",
+          "unit_price": 1000,
+          "amount": 50000,
+          "tax_code": "T10"
+        }
+      ]
+    }
+  },
+  {
+    "file": "invoice_03.pdf",
+    "status": "success",
+    "mock_data": {
+      "invoice_number": "INV-202608-invoice_",
+      "supplier_name": "株式会社サンプル商事",
+      "issue_date": "2026-01-15",
+      "due_date": "2026-02-15",
+      "subtotal": 150000,
+      "tax_amount": 15000,
+      "total_amount": 165000,
+      "lines": [
+        {
+          "description": "製品A-100",
+          "quantity": 100,
+          "unit": "pcs",
+          "unit_price": 1000,
+          "amount": 100000,
+          "tax_code": "T10"
+        },
+        {
+          "description": "製品B-200",
+          "quantity": 50,
+          "unit": "pcs",
+          "unit_price": 1000,
+          "amount": 50000,
+          "tax_code": "T10"
+        }
+      ]
+    }
+  },
+  {
+    "file": "invoice_02.pdf",
+    "status": "success",
+    "mock_data": {
+      "invoice_number": "INV-202608-invoice_",
+      "supplier_name": "株式会社サンプル商事",
+      "issue_date": "2026-01-15",
+      "due_date": "2026-02-15",
+      "subtotal": 150000,
+      "tax_amount": 15000,
+      "total_amount": 165000,
+      "lines": [
+        {
+          "description": "製品A-100",
+          "quantity": 100,
+          "unit": "pcs",
+          "unit_price": 1000,
+          "amount": 100000,
+          "tax_code": "T10"
+        },
+        {
+          "description": "製品B-200",
+          "quantity": 50,
+          "unit": "pcs",
+          "unit_price": 1000,
+          "amount": 50000,
+          "tax_code": "T10"
+        }
+      ]
+    }
+  },
+  {
+    "file": "invoice_01.pdf",
+    "status": "success",
+    "mock_data": {
+      "invoice_number": "INV-202608-invoice_",
+      "supplier_name": "株式会社サンプル商事",
+      "issue_date": "2026-01-15",
+      "due_date": "2026-02-15",
+      "subtotal": 150000,
+      "tax_amount": 15000,
+      "total_amount": 165000,
+      "lines": [
+        {
+          "description": "製品A-100",
+          "quantity": 100,
+          "unit": "pcs",
+          "unit_price": 1000,
+          "amount": 100000,
+          "tax_code": "T10"
+        },
+        {
+          "description": "製品B-200",
+          "quantity": 50,
+          "unit": "pcs",
+          "unit_price": 1000,
+          "amount": 50000,
+          "tax_code": "T10"
+        }
+      ]
+    }
+  },
+  {
+    "file": "invoice_10.jpg",
+    "status": "success",
+    "mock_data": {
+      "invoice_number": "INV-202608-invoice_",
+      "supplier_name": "株式会社サンプル商事",
+      "issue_date": "2026-01-15",
+      "due_date": "2026-02-15",
+      "subtotal": 150000,
+      "tax_amount": 15000,
+      "total_amount": 165000,
+      "lines": [
+        {
+          "description": "製品A-100",
+          "quantity": 100,
+          "unit": "pcs",
+          "unit_price": 1000,
+          "amount": 100000,
+          "tax_code": "T10"
+        },
+        {
+          "description": "製品B-200",
+          "quantity": 50,
+          "unit": "pcs",
+          "unit_price": 1000,
+          "amount": 50000,
+          "tax_code": "T10"
+        }
+      ]
+    }
+  },
+  {
+    "file": "invoice_04.jpg",
+    "status": "success",
+    "mock_data": {
+      "invoice_number": "INV-202608-invoice_",
+      "supplier_name": "株式会社サンプル商事",
+      "issue_date": "2026-01-15",
+      "due_date": "2026-02-15",
+      "subtotal": 150000,
+      "tax_amount": 15000,
+      "total_amount": 165000,
+      "lines": [
+        {
+          "description": "製品A-100",
+          "quantity": 100,
+          "unit": "pcs",
+          "unit_price": 1000,
+          "amount": 100000,
+          "tax_code": "T10"
+        },
+        {
+          "description": "製品B-200",
+          "quantity": 50,
+          "unit": "pcs",
+          "unit_price": 1000,
+          "amount": 50000,
+          "tax_code": "T10"
+        }
+      ]
+    }
+  },
+  {
+    "file": "invoice_08.jpg",
+    "status": "success",
+    "mock_data": {
+      "invoice_number": "INV-202608-invoice_",
+      "supplier_name": "株式会社サンプル商事",
+      "issue_date": "2026-01-15",
+      "due_date": "2026-02-15",
+      "subtotal": 150000,
+      "tax_amount": 15000,
+      "total_amount": 165000,
+      "lines": [
+        {
+          "description": "製品A-100",
+          "quantity": 100,
+          "unit": "pcs",
+          "unit_price": 1000,
+          "amount": 100000,
+          "tax_code": "T10"
+        },
+        {
+          "description": "製品B-200",
+          "quantity": 50,
+          "unit": "pcs",
+          "unit_price": 1000,
+          "amount": 50000,
+          "tax_code": "T10"
+        }
+      ]
+    }
+  },
+  {
+    "file": "invoice_12.jpg",
+    "status": "success",
+    "mock_data": {
+      "invoice_number": "INV-202608-invoice_",
+      "supplier_name": "株式会社サンプル商事",
+      "issue_date": "2026-01-15",
+      "due_date": "2026-02-15",
+      "subtotal": 150000,
+      "tax_amount": 15000,
+      "total_amount": 165000,
+      "lines": [
+        {
+          "description": "製品A-100",
+          "quantity": 100,
+          "unit": "pcs",
+          "unit_price": 1000,
+          "amount": 100000,
+          "tax_code": "T10"
+        },
+        {
+          "description": "製品B-200",
+          "quantity": 50,
+          "unit": "pcs",
+          "unit_price": 1000,
+          "amount": 50000,
+          "tax_code": "T10"
+        }
+      ]
+    }
+  },
+  {
+    "file": "invoice_11.jpg",
+    "status": "success",
+    "mock_data": {
+      "invoice_number": "INV-202608-invoice_",
+      "supplier_name": "株式会社サンプル商事",
+      "issue_date": "2026-01-15",
+      "due_date": "2026-02-15",
+      "subtotal": 150000,
+      "tax_amount": 15000,
+      "total_amount": 165000,
+      "lines": [
+        {
+          "description": "製品A-100",
+          "quantity": 100,
+          "unit": "pcs",
+          "unit_price": 1000,
+          "amount": 100000,
+          "tax_code": "T10"
+        },
+        {
+          "description": "製品B-200",
+          "quantity": 50,
+          "unit": "pcs",
+          "unit_price": 1000,
+          "amount": 50000,
+          "tax_code": "T10"
+        }
+      ]
+    }
+  },
+  {
+    "file": "invoice_06.jpg",
+    "status": "success",
+    "mock_data": {
+      "invoice_number": "INV-202608-invoice_",
+      "supplier_name": "株式会社サンプル商事",
+      "issue_date": "2026-01-15",
+      "due_date": "2026-02-15",
+      "subtotal": 150000,
+      "tax_amount": 15000,
+      "total_amount": 165000,
+      "lines": [
+        {
+          "description": "製品A-100",
+          "quantity": 100,
+          "unit": "pcs",
+          "unit_price": 1000,
+          "amount": 100000,
+          "tax_code": "T10"
+        },
+        {
+          "description": "製品B-200",
+          "quantity": 50,
+          "unit": "pcs",
+          "unit_price": 1000,
+          "amount": 50000,
+          "tax_code": "T10"
+        }
+      ]
+    }
+  },
+  {
+    "file": "invoice_07.jpg",
+    "status": "success",
+    "mock_data": {
+      "invoice_number": "INV-202608-invoice_",
+      "supplier_name": "株式会社サンプル商事",
+      "issue_date": "2026-01-15",
+      "due_date": "2026-02-15",
+      "subtotal": 150000,
+      "tax_amount": 15000,
+      "total_amount": 165000,
+      "lines": [
+        {
+          "description": "製品A-100",
+          "quantity": 100,
+          "unit": "pcs",
+          "unit_price": 1000,
+          "amount": 100000,
+          "tax_code": "T10"
+        },
+        {
+          "description": "製品B-200",
+          "quantity": 50,
+          "unit": "pcs",
+          "unit_price": 1000,
+          "amount": 50000,
+          "tax_code": "T10"
+        }
+      ]
+    }
+  },
+  {
+    "file": "invoice_05.jpg",
+    "status": "success",
+    "mock_data": {
+      "invoice_number": "INV-202608-invoice_",
+      "supplier_name": "株式会社サンプル商事",
+      "issue_date": "2026-01-15",
+      "due_date": "2026-02-15",
+      "subtotal": 150000,
+      "tax_amount": 15000,
+      "total_amount": 165000,
+      "lines": [
+        {
+          "description": "製品A-100",
+          "quantity": 100,
+          "unit": "pcs",
+          "unit_price": 1000,
+          "amount": 100000,
+          "tax_code": "T10"
+        },
+        {
+          "description": "製品B-200",
+          "quantity": 50,
+          "unit": "pcs",
+          "unit_price": 1000,
+          "amount": 50000,
+          "tax_code": "T10"
+        }
+      ]
+    }
+  }
+]
